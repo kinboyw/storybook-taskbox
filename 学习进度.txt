@@ -1,0 +1,9 @@
+这是React 组件开发工具 storybook 的学习项目
+
+按照官网 GetStart 文档进行学习 https://www.learnstorybook.com/react/zh-CN/get-started
+
+启动React项目
+yarn start
+
+启动 storybook
+yarn storybook
